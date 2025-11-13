@@ -1,7 +1,8 @@
 # Task-Tracker-CLI
 
 A command-line task manager application built with TypeScript. This tool allows you to create, update, delete, and manage tasks with different statuses (todo, in-progress, done).
-
+## Project URL
+https://roadmap.sh/projects/task-tracker
 ## Features
 
 - ✅ Add new tasks
